@@ -305,6 +305,8 @@ node_modules/
 *.ncb
 *.aps
 
+*.bat
+
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
 **/*.DesktopClient/GeneratedArtifacts
@@ -406,3 +408,4 @@ Makefile
 *.swo
 *.swn
 /build/compile_commands.json
+build/
