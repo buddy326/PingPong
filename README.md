@@ -6,12 +6,14 @@ A classic Pong game written in C++ with [raylib](https://www.raylib.com/). You p
 
 ## Controls
 
-| Key | Action |
+| Input | Action |
 | --- | --- |
-| Click / Enter / Space | Start the game |
-| ↑ | Move paddle up |
-| ↓ | Move paddle down |
-| Esc | Quit |
+| Click / tap / Enter / Space | Start the game |
+| ↑ / ↓ | Move paddle up / down |
+| Drag (touch or mouse) | Paddle follows your finger or cursor |
+| Esc | Quit (desktop) |
+
+Works on phones and tablets too: open the live demo, turn the phone sideways for the best view, and drag to move.
 
 You control the paddle on the **right**, and the CPU controls the one on the left. Get the ball past the CPU's paddle to score. Each player's score is shown at the top of their half of the screen.
 
